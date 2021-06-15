@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CardinPatson
 - 👀 I’m looking to collaborate on Front-end development project 
 - 📫 How to reach me cardin.tiako@gmail.com
-
+- ✨ How to know me https://cardinpatson.github.io/PortFolio/
 <!---
 ---  🌱 I’m currently learning development 
 -  I’m interested Fullstack Development  
