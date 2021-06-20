@@ -2,7 +2,7 @@
 - 👀 I’m looking to collaborate on Front-end development project 
 - 📫 How to reach me cardin.tiako@gmail.com
 - ✨ How to know me https://cardinpatson.github.io/PortFolio/
-- 🌠 About me www.linkedin.com/in/cardin-tiako-036489186
+- 🌠 My Linkedin profile www.linkedin.com/in/cardin-tiako-036489186
 -  🚀My current project  https://linkedin-clone-7b5b5.web.app/
 <!---
 ---  🌱 I’m currently learning development 
