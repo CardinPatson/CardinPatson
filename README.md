@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CardinPatson
 - 📫 How to reach me cardin.tiako@gmail.com
-- ✨ How to know me https://cardinpatson.github.io/PortFolio/
-- 🌠 Linkedin profile www.linkedin.com/in/cardin-tiako-036489186
--  🚀Last project  https://clone-3467b.web.app
+- ✨ [How to know me](https://cardinpatson.github.io/PortFolio/)
+- 🌠 [Linkedin profile](www.linkedin.com/in/cardin-tiako-036489186)
+-  🚀[Last project](https://clone-3467b.web.app)
 <!---
 ---  🌱 I’m currently learning development 
 -  I’m interested Fullstack Development  
