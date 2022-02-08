@@ -8,14 +8,14 @@
   
    ```python
    while(project or coffee):
-   
-     process(running🚀)
      
      if not project:
       process(pending)
       
      if not coffee:
       sleep(time to make coffee🌠)
+    
+     process(running🚀)
       
    kernel panic
   ```
