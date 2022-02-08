@@ -1,8 +1,39 @@
-- 👋 Hi, I’m @CardinPatson
-- 📫 How to reach me cardin.tiako@gmail.com
-- ✨ [How to know me](https://cardinpatson.github.io/PortFolio/)
-- 🌠 [Linkedin profile](www.linkedin.com/in/cardin-tiako-036489186)
--  🚀[Last project](https://clone-3467b.web.app)
+- 👋 Hi, let name = cardinPatson
+   
+   ```python
+   if profile:
+      print
+   ```  
+     🌠[Linkedin](www.linkedin.com/in/cardin-tiako-036489186)  ✨ [PortFolio](https://cardinpatson.github.io/PortFolio/)
+  
+   ```python
+   while(project or coffee):
+   
+     process(running🚀)
+     
+     if not project:
+      process(pending)
+      
+     if not coffee:
+      sleep(time to make coffee🌠)
+      
+   kernel panic
+  ```
+
+-  ✨[Last project](https://clone-3467b.web.app)
+    ```c
+    char you_look_for[2];
+
+    if(fgets(you_look_for , 2 , stdin) != NULL){
+    
+      if(you_look_for == "me"){
+      
+        printf("E-mail : cardin.tiako@gmail.com\n");
+      
+      }
+    };
+  
+  
 <!---
 ---  🌱 I’m currently learning development 
 -  I’m interested Fullstack Development  
