@@ -1,39 +1,12 @@
-- 👋 Hi, let name = cardinPatson
-   
    ```python
-   if profile:
-      print
-   ```  
-     🌠[Linkedin](www.linkedin.com/in/cardin-tiako-036489186)  ✨ [PortFolio](https://cardinpatson.github.io/PortFolio/)
-  
-   ```python
-   while(project or coffee):
-     
+   while(project or coffee):    
      if not project:
-      process(pending)
-      
+      process(pending)    
      if not coffee:
-      sleep(time to make coffee🌠)
-    
-     process(running🚀)
-      
+      sleep(time to make coffee🌠) 
+     process(running🚀)     
    kernel panic
-  ```
-
--  ✨[Last project](https://clone-3467b.web.app)
-    ```c
-    char you_look_for[2];
-
-    if(fgets(you_look_for , 2 , stdin) != NULL){
-    
-      if(you_look_for == "me"){
-      
-        printf("E-mail : cardin.tiako@gmail.com\n");
-      
-      }
-    };
-  
-  
+   ```
 <!---
 ---  🌱 I’m currently learning development 
 -  I’m interested Fullstack Development  
