@@ -8,7 +8,7 @@
    kernel panic
    ```
    
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b> GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/CardinPatson"><img alt="Cardin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CardinPatson&custom_title=Cardin%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
