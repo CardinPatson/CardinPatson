@@ -8,12 +8,14 @@
    kernel panic
    ```
    
+   
+ <!---
   <summary><b> GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/CardinPatson"><img alt="Cardin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CardinPatson&custom_title=Cardin%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
    
-<!---
+
 ---  🌱 I’m currently learning development 
 -  I’m interested Fullstack Development  
 CardinPatson/CardinPatson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
