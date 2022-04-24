@@ -1,4 +1,4 @@
-   ```python
+   <!---```python
    while(project or coffee):    
      if not project:
       process(pending)    
@@ -7,7 +7,7 @@
      process(running🚀)     
    kernel panic
    ```
-   
+   --->
    
  <!---
   <summary><b> GitHub Activity</b></summary>
